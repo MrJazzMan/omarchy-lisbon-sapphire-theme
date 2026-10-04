@@ -1,6 +1,6 @@
 # Lisbon Sapphire
 
-A sapphire-blue night theme for [Omarchy](https://omarchy.org), inspired by Lisbon after dark and by the style of the built-in Osaka Jade theme.
+A sapphire-blue night theme for [Omarchy](https://omarchy.org), inspired by Lisbon after dark.
 
 ![Lisbon Sapphire preview](preview.png)
 
