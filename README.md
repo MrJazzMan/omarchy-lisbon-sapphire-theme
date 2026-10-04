@@ -17,14 +17,14 @@ or run `omarchy theme install https://github.com/MrJazzMan/omarchy-lisbon-sapphi
 ## What's included
 
 - `colors.toml`: deep navy backgrounds, sapphire accent `#2F6FD6` and warm amber highlights
-- Wallpaper: the Lisbon harbour at night (3840×2160)
+- Wallpapers (3840×2160): Lisbon harbour silos, Belém Tower, Praça do Comércio and Baixa-Chiado at night
 - Icons: Yaru-blue
 - Neovim and VS Code/Cursor: Tokyo Night Storm
 
 ## Credits
 
-Wallpaper photo © Miguel Garcia, used with permission in this theme.
+Images by Miguel Garcia.
 
 ## License
 
-MIT for the theme files. The wallpaper photo is © Miguel Garcia; you may use it as a wallpaper with this theme.
+MIT for the theme files. Images by Miguel Garcia; you may use them as wallpapers with this theme.
